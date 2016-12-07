@@ -17,6 +17,7 @@ gem 'coffee-rails', '~> 4.2'
 # gem 'therubyracer', platforms: :ruby
 gem 'nokogiri'
 gem 'open_uri_redirections'
+gem 'mechanize'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
